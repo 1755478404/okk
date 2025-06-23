@@ -1,6 +1,13 @@
 # 内容：jable
 # 数量：21条
 DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,18comic.vip
 IP-CIDR,172.67.11.110/32,📺 jable,no-resolve
 IP-CIDR,104.22.66.106/32,📺 jable,no-resolve
 IP-CIDR,104.22.67.106/32,📺 jable,no-resolve
+# 18comic.vip 流量走 “📺 jable”
+IP-CIDR,47.75.18.65/32,📺 jable,no-resolve
+IP-CIDR,47.75.18.66/32,📺 jable,no-resolve
+IP-CIDR,47.75.18.67/32,📺 jable,no-resolve
+IP-CIDR,47.75.18.68/32,📺 jable,no-resolve
+IP-CIDR,47.75.18.69/32,📺 jable,no-resolve
