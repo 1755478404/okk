@@ -1,15 +1,15 @@
-DOMAIN-KEYWORD,18comic,📺 jable
-DOMAIN-KEYWORD,jable,📺 jable
-DOMAIN-SUFFIX,jable.tv,📺 jable
-DOMAIN-SUFFIX,18comic.vip,📺 jable
-IP-CIDR,172.67.11.110/32,📺 jable,no-resolve
-IP-CIDR,104.22.66.106/32,📺 jable,no-resolve
-IP-CIDR,104.22.67.106/32,📺 jable,no-resolve
-IP-CIDR,47.75.18.65/32,📺 jable,no-resolve
-IP-CIDR,47.75.18.66/32,📺 jable,no-resolve
-IP-CIDR,47.75.18.67/32,📺 jable,no-resolve
-IP-CIDR,47.75.18.68/32,📺 jable,no-resolve
-IP-CIDR,47.75.18.69/32,📺 jable,no-resolve
-IP-CIDR,104.22.36.105/32,📺 jable,no-resolve
-IP-CIDR,104.22.37.105/32,📺 jable,no-resolve
-IP-CIDR,172.67.12.133/32,📺 jable,no-resolve
+DOMAIN-KEYWORD,18comic
+DOMAIN-KEYWORD,jable
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,18comic.vip
+IP-CIDR,172.67.11.110/32,no-resolve
+IP-CIDR,104.22.66.106/32,no-resolve
+IP-CIDR,104.22.67.106/32,no-resolve
+IP-CIDR,47.75.18.65/32,no-resolve
+IP-CIDR,47.75.18.66/32,no-resolve
+IP-CIDR,47.75.18.67/32,no-resolve
+IP-CIDR,47.75.18.68/32,no-resolve
+IP-CIDR,47.75.18.69/32,no-resolve
+IP-CIDR,104.22.36.105/32,no-resolve
+IP-CIDR,104.22.37.105/32,no-resolve
+IP-CIDR,172.67.12.133/32,no-resolve
